@@ -1,2 +1,2 @@
-# emoji-app
+# neogcamp-emoji-app
 Created with CodeSandbox
